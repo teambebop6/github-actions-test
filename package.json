@@ -1,0 +1,19 @@
+{
+  "name": "github-actions-test",
+  "version": "0.0.1",
+  "description": "Test for GitHub actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/teambebop6/github-actions-test.git"
+  },
+  "author": "Henry Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teambebop6/github-actions-test/issues"
+  },
+  "homepage": "https://github.com/teambebop6/github-actions-test#readme"
+}
